@@ -1,6 +1,8 @@
 # Drum Sequencer App
 ***Written by Tommy Barnes***
 
+![](https://i.imgur.com/lwF6xJ4.png)
+
 This was my response to the assignment given via email:
 
 Assignment:
