@@ -3,7 +3,7 @@
 
 ![](https://i.imgur.com/bDt2rtG.png)
 
-This React SPA is my response to the assignment given via email:
+This React SPA is my response to the assignment given via email.  I had fun!! :D
 
 ### Assignment:
 
