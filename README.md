@@ -5,7 +5,7 @@
 
 This was my response to the assignment given via email:
 
-Assignment:
+### Assignment:
 
 Create a drum beat/step sequencer for the web or iOS/Android.  Check out a quick 30 second overview of what this is at https://www.youtube.com/watch?v=oA--iN1nAFE.  Pick any sounds you want (get creative).  You can find samples at https://freesound.org and elsewhere on the web.
 
