@@ -1,5 +1,5 @@
 # Drum Sequencer App
-Tommy Barnes
+## Tommy Barnes
 
 This was my response to the assignment given via email:
 
@@ -9,19 +9,22 @@ Create a drum beat/step sequencer for the web or iOS/Android.  Check out a quick
 
 Requirements:
 
-[x] This should take a day to a day and a half.
-[x] Upload this to a private GitHub repo and add my username malkodrum when finished.
-[x] There are 8 tracks (rows), and 16 columns per track which represent each step.
-[x] Your sounds can be hard-coded into each track.
-[x] This should be a single page/view
-[x] The time should be 120 BPM
+- [x] This should take a day to a day and a half.
+- [x] Upload this to a private GitHub repo and add my username malkodrum when finished.
+- [x] There are 8 tracks (rows), and 16 columns per track which represent each step.
+- [x] Your sounds can be hard-coded into each track.
+- [x] This should be a single page/view
+- [x] The time should be 120 BPM
 
 Extra Credit:
 
-[x] Don't use any third party libraries for playing audio, each platform has built in functionality
-[x] Add a play / stop / pause button
+- [x] Don't use any third party libraries for playing audio, each platform has built in functionality
+- [x] Add a play / stop / pause button
 - Add the ability to change the BPM
 - Tests
+
+Not Mentioned:
+- [x] Linting (eslint & babel-eslint using AirBnB style)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
