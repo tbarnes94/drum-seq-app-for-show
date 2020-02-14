@@ -4,8 +4,12 @@
 ![](https://i.imgur.com/bDt2rtG.png)
 
 This React SPA is my response to the assignment given via email.
+
 ![](https://media0.giphy.com/media/k5nFcak3DT8iI/giphy.gif?cid=790b76114be8462928f02cd45c913a56354c56f8490555b5&rid=giphy.gif)
-I had fun!! :D
+
+It was fun learning how to represent some of these things I took for granted learning instruments as a kid (logic for the metronome, how sounds are executed when it's this time-sensitive, etc).
+
+Thanks for the opportunity!
 
 ### Assignment:
 
