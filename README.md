@@ -1,6 +1,8 @@
 # Drum Sequencer App
 ***Written by Tommy Barnes***
 
+*This is an app I made for a final round interview that I thought turned out pretty well.*
+
 ![](https://i.imgur.com/bDt2rtG.png)
 
 This React SPA is my response to the assignment given via email.
